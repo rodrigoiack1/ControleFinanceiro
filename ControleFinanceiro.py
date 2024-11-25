@@ -61,7 +61,7 @@ def executar_programa():
         
         elif escolha == '3':
             gerar_relatorio()
-        
+
         elif escolha == '4':
             print("Saindo do programa...")
             break
